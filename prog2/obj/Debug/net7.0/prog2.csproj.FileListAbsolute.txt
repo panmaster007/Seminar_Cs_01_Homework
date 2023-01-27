@@ -1,0 +1,15 @@
+C:\projects\SeminarCs01_homework\prog2\bin\Debug\net7.0\prog2.exe
+C:\projects\SeminarCs01_homework\prog2\bin\Debug\net7.0\prog2.deps.json
+C:\projects\SeminarCs01_homework\prog2\bin\Debug\net7.0\prog2.runtimeconfig.json
+C:\projects\SeminarCs01_homework\prog2\bin\Debug\net7.0\prog2.dll
+C:\projects\SeminarCs01_homework\prog2\bin\Debug\net7.0\prog2.pdb
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\prog2.csproj.AssemblyReference.cache
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\prog2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\prog2.AssemblyInfoInputs.cache
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\prog2.AssemblyInfo.cs
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\prog2.csproj.CoreCompileInputs.cache
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\prog2.dll
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\refint\prog2.dll
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\prog2.pdb
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\prog2.genruntimeconfig.cache
+C:\projects\SeminarCs01_homework\prog2\obj\Debug\net7.0\ref\prog2.dll
